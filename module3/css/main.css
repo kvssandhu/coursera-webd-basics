@@ -1,0 +1,43 @@
+body{
+    background-color: lightblue;
+}
+
+.container-fluid {
+    padding-left :0px;
+    padding-right : 0px;
+}
+.menu-heading{
+    font-weight : 700;
+    padding-top: 20px;
+    padding-bottom : 20px;
+}
+
+.food_card_wrapper{
+    padding : 40px;
+    margin-left : auto;
+    margin-right : auto;
+   
+}
+
+.food_card{
+    max-width : 400px;
+    border: 1px solid black;
+    padding : 15px;
+    margin : 10px;
+}
+
+.navbar-default{
+    height : 80px;
+}
+.navbar-brand {
+    height: 80px;
+    line-height : 42px;
+}
+
+.navbar-toggle{
+    margin-top:20px;
+}
+
+.navbar-collapse{
+    background-color : lightgrey;
+}
